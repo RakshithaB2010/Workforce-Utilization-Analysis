@@ -1,0 +1,846 @@
+SK,Name,Billable,StartDate,EndDate,Planning_Relation_SK,Project_Manager_SK,Project_SK,IsInternalIT
+4,escivreS lanoitarepO,1,NULL,NULL,30,182,42857,0
+10,escivreS lanoitarepO,1,NULL,NULL,521,3,20333,0
+11,escivreS lanoitarepO,1,NULL,NULL,614,3,37010,0
+13,escivreS lanoitarepO,1,NULL,NULL,448,72,49693,0
+14,escivreS lanoitarepO,1,NULL,NULL,543,19,27734,0
+15,escivreS lanoitarepO,1,NULL,NULL,50,72,38924,0
+18,escivreS lanoitarepO,1,NULL,NULL,74,19,27784,0
+20,escivreS lanoitarepO,1,NULL,NULL,96,61,34935,0
+21,escivreS lanoitarepO,1,NULL,NULL,726,55,21440,0
+25,escivreS lanoitarepO,1,NULL,NULL,559,56,47201,0
+26,escivreS lanoitarepO,1,NULL,NULL,24,3,35646,0
+29,escivreS lanoitarepO,1,NULL,NULL,811,72,27551,0
+31,escivreS lanoitarepO,1,NULL,NULL,152,4,21442,0
+36,escivreS lanoitarepO,1,NULL,NULL,730,72,20874,0
+39,escivreS lanoitarepO,1,NULL,NULL,94,64,44158,0
+40,escivreS lanoitarepO,1,NULL,NULL,520,64,34423,0
+42,escivreS lanoitarepO,1,NULL,NULL,740,55,32987,0
+45,escivreS lanoitarepO,1,NULL,NULL,225,64,28577,0
+47,escivreS lanoitarepO,1,NULL,NULL,40,13,20332,0
+48,escivreS lanoitarepO,1,NULL,NULL,3,13,43701,0
+49,escivreS lanoitarepO,1,NULL,NULL,25,64,21278,0
+50,escivreS lanoitarepO,1,NULL,NULL,522,67,21618,0
+51,escivreS lanoitarepO,1,NULL,NULL,708,56,30422,0
+52,escivreS lanoitarepO,1,NULL,NULL,57,57,21445,0
+53,escivreS lanoitarepO,1,NULL,NULL,347,55,47024,0
+54,escivreS lanoitarepO,1,NULL,NULL,304,56,35749,0
+58,escivreS lanoitarepO,1,NULL,NULL,436,64,21613,0
+60,escivreS lanoitarepO,1,NULL,NULL,138,7,35234,0
+61,escivreS lanoitarepO,1,NULL,NULL,425,72,29806,0
+63,escivreS lanoitarepO,1,NULL,NULL,320,56,21609,0
+65,escivreS lanoitarepO,1,NULL,NULL,220,64,21527,0
+69,escivreS lanoitarepO,1,NULL,NULL,724,72,48840,0
+71,escivreS lanoitarepO,1,NULL,NULL,165,56,21530,0
+73,escivreS lanoitarepO,1,NULL,NULL,43,10,27786,0
+77,escivreS lanoitarepO,1,NULL,NULL,668,60,47838,0
+80,escivreS lanoitarepO,1,NULL,NULL,246,13,26155,0
+81,escivreS lanoitarepO,1,NULL,NULL,207,62,21608,0
+84,escivreS lanoitarepO,1,NULL,NULL,637,10,31115,0
+85,escivreS lanoitarepO,1,NULL,NULL,42,56,29225,0
+87,escivreS lanoitarepO,1,NULL,NULL,222,53,21357,0
+90,escivreS lanoitarepO,1,NULL,NULL,657,64,54831,0
+91,escivreS lanoitarepO,1,NULL,NULL,202,56,35197,0
+92,escivreS lanoitarepO,1,NULL,NULL,68,72,45291,0
+95,escivreS lanoitarepO,1,NULL,NULL,617,67,20329,0
+97,escivreS lanoitarepO,1,NULL,NULL,476,69,28266,0
+98,escivreS lanoitarepO,1,NULL,NULL,813,69,29057,0
+101,escivreS lanoitarepO,1,NULL,NULL,141,56,27088,0
+104,escivreS lanoitarepO,1,NULL,NULL,634,55,46553,0
+105,escivreS lanoitarepO,1,NULL,NULL,594,4,42402,0
+107,escivreS lanoitarepO,1,NULL,NULL,413,60,21274,0
+108,escivreS lanoitarepO,1,NULL,NULL,511,62,49299,0
+110,escivreS lanoitarepO,1,NULL,NULL,44,56,21207,0
+111,escivreS lanoitarepO,1,NULL,NULL,518,72,34866,0
+113,escivreS lanoitarepO,1,NULL,NULL,419,46,21611,0
+118,escivreS lanoitarepO,1,NULL,NULL,429,55,53070,0
+123,escivreS lanoitarepO,1,NULL,NULL,759,72,21356,0
+131,escivreS lanoitarepO,1,NULL,NULL,577,13,47647,0
+132,escivreS lanoitarepO,1,NULL,NULL,362,72,47688,0
+134,escivreS lanoitarepO,1,NULL,NULL,621,13,25044,0
+135,escivreS lanoitarepO,1,NULL,NULL,508,3,21610,0
+136,escivreS lanoitarepO,1,NULL,NULL,51,64,31697,0
+137,escivreS lanoitarepO,1,NULL,NULL,731,13,21616,0
+138,escivreS lanoitarepO,1,NULL,NULL,418,13,52832,0
+139,escivreS lanoitarepO,1,NULL,NULL,243,3,21617,0
+142,escivreS lanoitarepO,1,NULL,NULL,434,62,27655,0
+143,escivreS lanoitarepO,1,NULL,NULL,6,4,21276,0
+144,escivreS lanoitarepO,1,NULL,NULL,456,60,20320,0
+146,escivreS lanoitarepO,1,NULL,NULL,49,62,37274,0
+149,escivreS lanoitarepO,1,NULL,NULL,317,61,20873,0
+150,escivreS lanoitarepO,1,NULL,NULL,126,72,23635,0
+151,escivreS lanoitarepO,1,NULL,NULL,52,64,25884,0
+154,escivreS lanoitarepO,1,NULL,NULL,237,50,34793,0
+155,escivreS lanoitarepO,1,NULL,NULL,327,56,20323,0
+156,escivreS lanoitarepO,1,NULL,NULL,213,64,28868,0
+158,escivreS lanoitarepO,1,NULL,NULL,238,57,21534,0
+161,escivreS lanoitarepO,1,NULL,NULL,717,3,20326,0
+163,escivreS lanoitarepO,1,NULL,NULL,210,64,23220,0
+164,escivreS lanoitarepO,1,NULL,NULL,234,62,52009,0
+762,escivreS lanoitarepO,1,NULL,NULL,651,64,57391,0
+3,escivreS lanoitarepO deganaM,1,NULL,NULL,412,3,20331,0
+8,ngiwueinrevruutcurtsarfnI,1,NULL,NULL,25,19,54178,0
+9,escivreS lanoitarepO deganaM,1,NULL,NULL,409,3,48764,0
+16,escivreS SALTA lanoitarepO,1,NULL,NULL,305,64,53394,0
+17,escivreS SALTA lanoitarepO,1,NULL,NULL,251,62,35369,0
+19,escivreS lanoitarepO deganaM,1,NULL,NULL,303,55,42961,0
+22,escivreS SALTA lanoitarepO,1,NULL,NULL,812,69,26145,0
+23,escivreS lanoitarepO deganaM,1,NULL,NULL,677,13,48921,0
+24,upteS labolG saltA,0,NULL,NULL,1,69,47105,0
+27,escivreS SALTA lanoitarepO,1,NULL,NULL,48,55,26170,0
+28,escivreS SALTA lanoitarepO,1,NULL,NULL,630,55,28102,0
+30,escivreS lanoitarepO deganaM,1,NULL,NULL,725,50,34791,0
+32,CMCS etareleccA & evorpmI,1,NULL,NULL,620,46,36869,0
+33,escivreS lanoitarepO deganaM,1,NULL,NULL,749,94,48713,0
+34,escivreS SALTA lanoitarepO,1,NULL,NULL,533,62,24997,0
+35,escivreS lanoitarepO deganaM,1,NULL,NULL,681,60,50089,0
+37,escivreS lanoitarepO deganaM,1,NULL,NULL,421,4,53617,0
+38,escivreS SALTA lanoitarepO,1,NULL,NULL,326,72,47640,0
+41,escivreS lanoitarepO deganaM,1,NULL,NULL,655,72,51714,0
+43,escivreS lanoitarepO deganaM,1,NULL,NULL,330,13,40210,0
+44,escivreS lanoitarepO deganaM,1,NULL,NULL,125,55,42687,0
+46,escivreS lanoitarepO deganaM,1,NULL,NULL,167,19,51515,0
+55,escivreS lanoitarepO deganaM,1,NULL,NULL,164,64,41270,0
+56,escivreS lanoitarepO deganaM,1,NULL,NULL,224,55,49671,0
+57,escivreS SALTA lanoitarepO,1,NULL,NULL,228,56,39443,0
+59,escivreS SALTA lanoitarepO,1,NULL,NULL,748,64,22969,0
+62,escivreS SALTA lanoitarepO,1,NULL,NULL,768,13,31044,0
+64,CMCS etareleccA & evorpmI,1,NULL,NULL,320,56,38797,0
+66,escivreS SALTA lanoitarepO,1,NULL,NULL,73,13,25000,0
+67,escivreS lanoitarepO deganaM,1,NULL,NULL,423,13,48969,0
+68,escivreS lanoitarepO deganaM,1,NULL,NULL,482,64,43521,0
+70,escivreS lanoitarepO deganaM,1,NULL,NULL,427,64,39163,0
+72,escivreS lanoitarepO deganaM,1,NULL,NULL,728,56,49469,0
+74,escivreS lanoitarepO deganaM,1,NULL,NULL,439,62,45009,0
+75,escivreS SALTA lanoitarepO,1,NULL,NULL,319,62,24845,0
+76,escivreS lanoitarepO deganaM,1,NULL,NULL,443,62,47319,0
+78,escivreS lanoitarepO deganaM,1,NULL,NULL,763,56,40228,0
+79,escivreS SALTA lanoitarepO,1,NULL,NULL,619,62,46199,0
+82,escivreS lanoitarepO deganaM,1,NULL,NULL,719,56,54758,0
+83,escivreS lanoitarepO deganaM,1,NULL,NULL,629,56,41268,0
+86,escivreS SALTA lanoitarepO,1,NULL,NULL,271,62,47737,0
+88,CMCS etareleccA & evorpmI,1,NULL,NULL,609,48,40797,0
+89,escivreS SALTA lanoitarepO,1,NULL,NULL,422,56,20787,0
+93,escivreS lanoitarepO deganaM,1,NULL,NULL,454,64,50132,0
+94,escivreS lanoitarepO deganaM,1,NULL,NULL,41,64,54419,0
+96,escivreS lanoitarepO deganaM,1,NULL,NULL,35,60,50729,0
+99,escivreS lanoitarepO deganaM,1,NULL,NULL,658,4,48409,0
+100,escivreS lanoitarepO deganaM,1,NULL,NULL,324,64,41536,0
+102,escivreS lanoitarepO deganaM,1,NULL,NULL,720,55,54941,0
+103,escivreS lanoitarepO deganaM,1,NULL,NULL,72,19,51516,0
+106,escivreS lanoitarepO deganaM,1,NULL,NULL,132,56,48876,0
+109,entsneid esitrepxe krewteN,1,NULL,NULL,55,62,54908,0
+112,escivreS lanoitarepO deganaM,1,NULL,NULL,545,50,47082,0
+114,escivreS lanoitarepO deganaM,1,NULL,NULL,253,55,47875,0
+115,escivreS lanoitarepO deganaM,1,NULL,NULL,713,4,52640,0
+116,escivreS lanoitarepO deganaM,1,NULL,NULL,231,64,54358,0
+117,escivres gnicruos-oC,1,NULL,NULL,429,55,52928,0
+119,escivreS lanoitarepO deganaM,1,NULL,NULL,517,4,47215,0
+120,escivreS lanoitarepO deganaM,1,NULL,NULL,230,50,34792,0
+121,CMCS netsneid ednemokjiB,1,NULL,NULL,230,50,45141,0
+122,escivreS lanoitarepO deganaM,1,NULL,NULL,135,182,45084,0
+124,rtoppuS & noitasinagrO TCI lanretnI,0,NULL,NULL,1,42,535,1
+125,escivreS lanoitarepO saltA,0,NULL,NULL,1,69,22927,0
+126,edtcirtser - secivreS lanoitarepO saltA,0,NULL,NULL,1,69,36804,0
+127,ntempoleveD SITRRAMS dna noitamotuA,0,NULL,NULL,1,72,43122,0
+128,escivreS lanoitarepO deganaM,1,NULL,NULL,241,62,46806,0
+129,escivreS SALTA lanoitarepO,1,NULL,NULL,45,72,41764,0
+130,ameeV - etareleccA & evorpmI,1,NULL,NULL,45,72,51992,0
+133,escivreS SALTA lanoitarepO,1,NULL,NULL,34,62,48823,0
+140, 9thcardpoleeD - I&C secivreS gnicruos-oC,1,NULL,NULL,139,62,50097,0
+141,escivreS SALTA lanoitarepO,1,NULL,NULL,280,55,32822,0
+145,escivreS SALTA lanoitarepO,1,NULL,NULL,95,72,20322,0
+147,escivreS SALTA lanoitarepO,1,NULL,NULL,675,182,20325,0
+148,escivreS SALTA lanoitarepO,1,NULL,NULL,814,69,39444,0
+152,escivreS lanoitarepO deganaM,1,NULL,NULL,13,56,50258,0
+153,escivreS lanoitarepO deganaM,1,NULL,NULL,646,13,52686,0
+157,escivreS lanoitarepO deganaM,1,NULL,NULL,457,13,53398,0
+159,escivreS lanoitarepO deganaM,1,NULL,NULL,119,64,39506,0
+160,escivreS lanoitarepO deganaM,1,NULL,NULL,758,56,50544,0
+162,escivreS lanoitarepO deganaM,1,NULL,NULL,537,50,34790,0
+165,escivreS SALTA lanoitarepO,1,NULL,NULL,131,13,20328,0
+166,escivreS SALTA lanoitarepO,1,NULL,NULL,697,50,24999,0
+171,2202 tegduB,1,NULL,NULL,717,3,54201,0
+186,kanaL irS 1 LSPTU gniwueinrev arfnI,1,NULL,NULL,719,56,55218,0
+198,onitamotua eruza,1,NULL,NULL,646,13,53195,0
+310,erdaolepaT,1,NULL,NULL,96,55,55579,0
+316,erveorethceR tcejorp mroftalpduolC,1,NULL,NULL,827,19,55779,0
+317,itdua tiu negnilevebnaa nav eitatnemelpmi + eggurbtneG ni CD wueiN,1,NULL,NULL,126,19,55756,0
+318,rmoftalp TCI teh nav esylana & tiduA,1,NULL,NULL,828,19,55580,0
+319,rsevres pukcaB,1,NULL,NULL,6,19,55572,0
+320,HQ srevres XSE gnignavreV,1,NULL,NULL,6,19,55571,0
+321,reuzA revres LQS,1,NULL,NULL,222,19,55477,0
+323,82121# 6300-2202 :feR - 3UB - 2UB - 1UB sehctiwS - PA,1,NULL,NULL,222,19,55290,0
+325,emrp no arfni gniwueinreV,1,NULL,NULL,231,19,55223,0
+326,deargpu erehpSv roov sksid gnidierbtiU,1,NULL,NULL,74,19,55117,0
+328,esitnecil MV + ASV feitanretlA,1,NULL,NULL,423,19,54750,0
+329,neutnI & )kjirtroK( silovE etis s'artxE,1,NULL,NULL,421,19,54267,0
+330,PsFS,1,NULL,NULL,324,19,54245,0
+333,coavaS no saltA,1,NULL,NULL,830,19,53877,0
+334,esitacol # CD wuein an s'artxe jib netsneiD,1,NULL,NULL,421,19,53102,0
+335,ietargim 563O raan egnahcxE,1,NULL,NULL,676,19,52251,0
+336,rmoftalp eciffo-kcab gniwueinreV,1,NULL,NULL,126,19,53485,0
+337,teadpu arfnI,1,NULL,NULL,421,19,53284,0
+338,genahcxE eitargiM,1,NULL,NULL,74,19,50349,0
+339,gearotS gniwueinreV,1,NULL,NULL,324,19,48741,0
+340,reuzA / saltA / gniwueinrev eciffo-kcaB,1,NULL,NULL,131,19,44470,0
+343,2202/21 SOE - 3 esaf erots gnignavreV,1,NULL,NULL,303,55,55346,0
+373,stoh XSE edargpU,1,NULL,NULL,817,55,56101,0
+383,ASLTA srevres 2 gniwueinreV,1,NULL,NULL,768,4,55642,0
+391,ietargim egnahcxE,1,NULL,NULL,152,50,51306,0
+398,ntemssessa ytilibarenluv ne tidua ytiruces,1,NULL,NULL,835,13,55679,0
+402,HQ lebidyM SEM : 2 esaf mroftalp TCI,1,NULL,NULL,518,50,48926,0
+416,erehebmeetsyS gnicruos-oC,1,NULL,NULL,835,87,56307,0
+419,653O roov pukcab maeeV,1,NULL,NULL,476,69,55649,0
+424,urutcurtsarfni gnignavreV,1,NULL,NULL,197,87,55663,0
+432,sCP + sehctiwS,1,NULL,NULL,256,168,55862,0
+434,ntupthciL revres etis no tidua,1,NULL,NULL,283,168,56184,0
+436,envjihcS gnignavreV,1,NULL,NULL,205,168,56303,0
+440,e'nO saltA' tnemssessA,1,NULL,NULL,567,168,56358,0
+465,neilnO egnahcxE seitargiM,1,NULL,NULL,739,168,53971,0
+469,ervreS tnemssessA,1,NULL,NULL,178,168,56463,0
+478,neO saltA,1,NULL,NULL,176,168,56484,0
+483,enssapeot sleger pu-kcab 1-2-3,1,NULL,NULL,817,55,56572,0
+485,ASBG ytivilpmiS,1,NULL,NULL,841,36,56548,0
+486,JEIRAGLUB tcejorP,1,NULL,NULL,763,36,56541,0
+488,iphsrentraP TCI,1,NULL,NULL,842,19,56520,0
+490,ervreS LQS,1,NULL,NULL,155,168,56589,0
+498,K)U ne TI-EB( ruutcurtsarfni sesimerp-no gnignavreV,1,NULL,NULL,457,13,56639,0
+500,urutcurtsarfni TI gniwueinreV,1,NULL,NULL,54,36,56652,0
+507,ngivegmorevres tidua,1,NULL,NULL,845,168,56610,0
+511,2102 gninuetsrednO,1,NULL,NULL,325,7,48243,0
+519,ASN ewueiN,1,NULL,NULL,205,168,56681,0
+526,gnised retnecatad BXI tnemssessA,1,NULL,NULL,30,3,56653,0
+535,DR/pu-kcab duolC cilbuP tem skjilegom - gnignavrevruutcurtsarfni ne ASV,1,NULL,NULL,125,50,56821,0
+536,esitnecil dradnatS ssenisuB 563 tfosorciM,1,NULL,NULL,290,20,55753,0
+538,ervreS negnissapnaA,1,NULL,NULL,503,NULL,56677,0
+540,itforp non eruZA ni putes PTFS,1,NULL,NULL,845,168,56831,0
+541,stakkrewteN eitatnemucoD/tiduA,1,NULL,NULL,155,168,56810,0
+542,rafni egdE,1,NULL,NULL,329,4,56137,0
+556,asalkiN-tniS rootnak eitargim liamE,1,NULL,NULL,818,55,56918,0
+559,gniSlabolG - 2202-4Q lawener ecnanetniaM,1,NULL,NULL,533,5,56739,0
+560,gniS labolG - 3202-1Q lawener ecnanetniaM,1,NULL,NULL,96,5,56905,0
+561,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,725,5,56714,0
+562,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,718,5,56715,0
+563,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,230,5,56717,0
+564,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,621,5,56720,0
+566,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,42,5,56663,0
+567,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,427,5,56914,0
+568,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,241,5,56869,0
+569,3)202/10/12 .PXE( ngiSlabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,43,5,56926,0
+570,3)202/10/92 .PXE( ngiSlabolG 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,304,5,56793,0
+582,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,559,5,56970,0
+583,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,152,5,56990,0
+584,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,210,5,56974,0
+586,ARP3 gnignavreV,1,NULL,NULL,429,19,57041,0
+588,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,31,5,57035,0
+590,US ne UE ni 563 tfosorcim eitargetnI,1,NULL,NULL,476,69,45182,0
+595,chtiwS negnavreV,1,NULL,NULL,711,168,55329,0
+602,ryarbiL epaT gnignavrev,1,NULL,NULL,51,173,56886,0
+605,escivres eruzA no saltA,1,NULL,NULL,95,72,57100,0
+620,ngicruoS-oC,1,NULL,NULL,6,4,57222,0
+633,2)202/11/10 .PXE( ngiSlabolG - 2202-4Q laweneR ecnanetniaM,1,NULL,NULL,412,5,56430,0
+637,neilno egnahcxE neru,1,NULL,NULL,24,3,55248,0
+638,etnitroF - 2202-4Q laweneR ecnanetniaM,1,NULL,NULL,594,4,56901,0
+639,ervreS WV nestaalpreH,1,NULL,NULL,272,168,57088,0
+647,kssid egidon artxe 6 + edargpu eraWMV,1,NULL,NULL,207,173,57298,0
+649,2302 maeeV etareleccA & evorpmI,1,NULL,NULL,45,72,57236,0
+650,escivreS lanoitarepO deganaM,1,NULL,NULL,668,60,57185,0
+652,upkcab duolC ocavaS 563 eciffO,1,NULL,NULL,222,173,57320,0
+654,atacifitrec LSS - 3202-1Q lawener ecnanetniaM,1,NULL,NULL,72,5,57172,0
+655,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,13,5,57327,0
+656,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,518,5,57167,0
+657,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,325,5,57315,0
+658,gnislabolG  - 3202-1Q lawener ecnanetniaM,1,NULL,NULL,630,5,57053,0
+659,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,212,5,56840,0
+660,gniapmac 2102 enO saltA,1,NULL,NULL,567,168,57249,0
+664,leortnocstietilawk revreS,1,NULL,NULL,119,64,55665,0
+667,ngiwueinrevruutcurtsarfnI,1,NULL,NULL,330,173,56082,0
+668,2202 tegdub retnecataD,1,NULL,NULL,476,69,54521,0
+669,tyivilpmis raan arfni raP3 eitargiM,1,NULL,NULL,518,36,57260,0
+670,ietargim 563O egnahcxE,1,NULL,NULL,854,19,57267,0
+673,neO saltA,1,NULL,NULL,266,168,57212,0
+674,ervreS negnavreV,1,NULL,NULL,771,168,57312,0
+675,SLS llebmoC 3202-1Q laweneR,1,NULL,NULL,70,168,57264,0
+676,ervreS gniwueinreV tnemssessA,1,NULL,NULL,370,168,57282,0
+677,1202 revreS tnemssessA,1,NULL,NULL,282,168,57278,0
+679,etnitroF - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,731,5,57158,0
+681,ervreS negnavreV :tnemssessA,1,NULL,NULL,473,168,57228,0
+682,1202 revreS tnemssessA,1,NULL,NULL,782,168,57297,0
+685,"kscaratad nav gnirelbakreh ne gnihctap ednaatseb nav esylana ,slebak eduo nav neredjiwreV",1,NULL,NULL,658,4,57321,0
+687,utohneetS eitargiM,1,NULL,NULL,125,55,57405,0
+688,ioranecs RD nekrewtiU,1,NULL,NULL,45,19,57238,0
+692,escivreS lanoitarepO deganaM,1,NULL,NULL,240,87,57135,0
+694,aSaD tem saltA >= gniwueinrev ruutcurtsarfnI,1,NULL,NULL,42,69,42770,0
+710,FAM,1,NULL,NULL,711,168,57458,0
+718,neoz gnidnal duolc seivda & eitnetsissA,1,NULL,NULL,126,72,57451,0
+719,emrp no egnahcxE gniresaftiu + rellortnoc niemod eitargiM,1,NULL,NULL,518,173,57254,0
+727,escivreS lanoitarepO deganaM,1,NULL,NULL,412,4,56315,0
+728,skeD ecivreS hguorhT snoitnevretnI - I&C,1,NULL,NULL,1,73,NULL,0
+734,ARP3 gninoisivorp niht lortiU,1,NULL,NULL,74,83,57101,0
+736,ewiveR erutcurtsarfnI,1,NULL,NULL,520,NULL,48100,0
+740,ngiwueinrevruutcurtsarfnI,1,NULL,NULL,96,19,57486,0
+742,rmoftalp atad eruzA tratspo,1,NULL,NULL,230,50,56422,0
+743,ceiffo-kcab rednefeD SM lortiU,1,NULL,NULL,677,13,57544,0
+744,enrekoL CD raan )RF( drobaL gnivegmo revres nettezrevO,1,NULL,NULL,443,62,49549,0
+748,ietargim enilnO egnahcxE + gnivegmo 563 eciffO & tfosorciM tezpO,1,NULL,NULL,94,173,57489,0
+750,gnislabolG 3202-1Q lawener ecnanetniaM,1,NULL,NULL,76,5,57042,0
+751,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,537,5,57444,0
+752,3)202/30/8 .PXE( ngiSlabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,320,5,57073,0
+753,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,720,5,57281,0
+754,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,719,5,57483,0
+755,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,36,5,57563,0
+756,gnislabolG - 1Q lawener ecnanetniaM,1,NULL,NULL,758,5,56908,0
+757,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,94,5,57025,0
+758,gnislabolG - 3202-1Q laweneR ecnanetniaM,1,NULL,NULL,119,5,57574,0
+772,PSU 0003 EPH,1,NULL,NULL,3,173,57535,0
+773,escivreS lanoitarepO saltA,1,NULL,NULL,225,64,57131,0
+788,e'nO saltA' tnemssessA,1,NULL,NULL,745,168,57648,0
+791,urevreS tnemssessA,1,NULL,NULL,674,168,57632,0
+793,neO saltA,1,NULL,NULL,108,168,57668,0
+794,escivreS lanoitarepO deganaM,1,NULL,NULL,864,55,57605,0
+795,asltA po revres SDR artxE,1,NULL,NULL,748,64,57576,0
+796,upkcab 563O,1,NULL,NULL,577,13,57633,0
+801,escivreS lanoitarepO deganaM,1,NULL,NULL,865,69,57500,0
+802,neO saltA gnigohreV,1,NULL,NULL,579,168,57700,0
+803,ntemssessA 2102 ruevreS,1,NULL,NULL,779,168,57677,0
+807,ietargim eruzA - eitacilppa etisbew esylanA,1,NULL,NULL,94,55,57573,0
+808,ervres ekeisyF,1,NULL,NULL,840,7,57679,0
+809,PSU & hctiwseroC - puorgotoM TI,1,NULL,NULL,658,173,57670,0
+824,esnihcam eleutriV artxE,1,NULL,NULL,271,62,57838,0
+827,escivreS lanoitarepO deganaM,1,NULL,NULL,94,64,57488,0
+829,uwobeg wuein siuhreV,1,NULL,NULL,720,19,57040,0
+830,neO saltA,1,NULL,NULL,361,168,57685,0
+833,u.aevin PI po revres PTFS tot gnageot gifnoC,1,NULL,NULL,845,NULL,57853,0
+835,escivreS lanoitarepO deganaM,1,NULL,NULL,313,64,56339,0
+836,ertnecatad gniwueinreV,1,NULL,NULL,75,50,57468,0
+837,up-kcab 563O daolffo roov ysaEerotS feitanretlA,1,NULL,NULL,74,19,57250,0
+841,iteticapacksid artxE,1,NULL,NULL,865,69,57822,0
+842,neO saltA tnemssessA,1,NULL,NULL,586,168,57806,0
+2,2202 kseD ecivreS - CCS,1,NULL,NULL,1,9,NULL,0
+170,olrtnoC & eraC,1,NULL,NULL,1,72,NULL,0
+173,2202 srekrewedem nalpsgnidielpO - I&A,0,NULL,NULL,1,NULL,NULL,0
+197,entsneid - tset RD + putes NAW-DS,1,NULL,NULL,457,13,53396,0
+200,cynadnuder + tnemecalper llaweriF,1,NULL,NULL,423,13,54532,0
+207,eshctiws gnignavreV,1,NULL,NULL,511,62,54833,0
+229,2202/60-1202/70 MLP etareleccA & evorpmI,1,NULL,NULL,49,29,50525,0
+230,2302/2202 etareleccA & evorpmI,1,NULL,NULL,49,29,56413,0
+232,entsneid reganam secivreS DPS,1,NULL,NULL,320,29,55151,0
+233,zeaMa# A9 gnikrewnemas netsneiD,1,NULL,NULL,320,29,55150,0
+234,entsneid A&I,1,NULL,NULL,538,29,56106,0
+245,2202 tegdub lebixelF,1,NULL,NULL,743,9,53635,0
+251,2202 etareleccA & evorpmI,1,NULL,NULL,612,20,53643,0
+259,nginelrevtsneid AID tiet?unitnoC,1,NULL,NULL,118,90,55502,0
+263,tearelecca & evorpmi IB rewoP,1,NULL,NULL,122,90,56683,0
+267,gsniteeM,0,NULL,NULL,1,3,NULL,0
+270,ntioPerahS etareleccA & evorpmI,1,NULL,NULL,442,20,51349,0
+306,seuoherawataD esimitpo/putes troppuS,1,NULL,NULL,201,90,55707,0
+311,IAD - etarelecca & evorpmI,1,NULL,NULL,646,90,48346,0
+313,2302 kseD ecivreS - CCS,1,NULL,NULL,1,9,NULL,0
+342,rsotcartnoc MAB eitargetni niamod eidutS,1,NULL,NULL,676,55,55975,0
+360,erffuB,0,NULL,NULL,1,3,NULL,0
+363,&IC gnicruos-oC,1,NULL,NULL,726,55,55616,0
+369,nginuetsredno CANitroF tenitroF artxE,1,NULL,NULL,320,NULL,54291,0
+386, 1thcardpoleed + 332 2102W 270/TCI,1,NULL,NULL,139,NULL,56215,0
+417,enrotnak ewuein 5 gnithcirnI,1,NULL,NULL,228,56,55528,0
+418,ervres PTFS ewuein nettezpo,1,NULL,NULL,612,55,56214,0
+420,S3 & tippirtS llaweriF,1,NULL,NULL,476,69,55904,0
+421,KAUK etis iF-iW,1,NULL,NULL,476,69,55559,0
+422,reawdrah gniwueinreV,1,NULL,NULL,292,87,56043,0
+435,ngicnerefnoc letsrooV,1,NULL,NULL,817,55,56161,0
+449,anmretleA etis eitargiM,1,NULL,NULL,677,13,56366,0
+455,escivreS lanoitarepO 4ebwonK,1,NULL,NULL,1,42,NULL,0
+462,urutcurtsarfni eitasilamitpo,1,NULL,NULL,836,NULL,54771,0
+475,ietasilamitpO ytiruceS,1,NULL,NULL,413,60,54164,0
+484,reuzA COP,1,NULL,NULL,697,NULL,56502,0
+495,e)ruza( duolc COP,1,NULL,NULL,292,NULL,56461,0
+497,nsegaw esael gniglovpO,1,NULL,NULL,743,9,56621,0
+509,2202 revreS swodniW raan edargpU,1,NULL,NULL,271,NULL,56675,0
+510,ergidroownegetrev ewuein potpaL,1,NULL,NULL,310,NULL,56655,0
+523,seylana+geltiu tnemeganam egnahC,1,NULL,NULL,538,NULL,56460,0
+529,lebatrop ewuein nav gnilletseB,1,NULL,NULL,210,NULL,56554,0
+530,ienofelet kseD ecivreS gnithcirni smaeT roov netsneiD,1,NULL,NULL,30,3,56784,0
+537,0E01GF x2 gnignavreV,1,NULL,NULL,817,55,56575,0
+547,23/nuj-32/naj secivres gnicruos-oC,1,NULL,NULL,429,83,56827,0
+550,rieoJ potpaL,1,NULL,NULL,287,NULL,56848,0
+554,ssapraelC aburA VoP,1,NULL,NULL,74,19,56769,0
+558,rkewteN jib pluH,1,NULL,NULL,75,55,56929,0
+565,onisnetxE - gnirotinoM noitarbiV,1,NULL,NULL,2,8,54601,0
+571,G9 056 kooBetilE PH,1,NULL,NULL,443,5,56933,0
+572,VDA pluH,1,NULL,NULL,524,55,56888,0
+585,psOveD,0,NULL,NULL,1,69,56736,0
+589,2302 nekaT enretnI - CCS,0,NULL,NULL,1,NULL,NULL,0
+591,2202 yevruS,1,NULL,NULL,574,90,54330,0
+592,BI rewoP ni sdraobhsad + HWD tezpO,1,NULL,NULL,852,90,57148,0
+597,rkew em4 redlohecalP,1,NULL,NULL,NULL,90,NULL,0
+599,seuoherawatad tezpO,1,NULL,NULL,715,90,57020,0
+600,ngivegmo-xirtiC edargpU,1,NULL,NULL,612,55,57102,0
+612,ntioPerahS tnehG sovE - negnissapnaA,1,NULL,NULL,249,NULL,57173,0
+614,ietcepsorpnedel & eitneternedel IA,1,NULL,NULL,267,90,53816,0
+616,2602 tot 3202 - gninelrevtsneid elenoitarepO,1,NULL,NULL,159,NULL,56854,0
+636,2302 srekrewedem nalpsgnidielpO - I&A,0,NULL,NULL,1,NULL,NULL,0
+662,erdnefed + enutnI,1,NULL,NULL,443,62,57346,0
+663,2202 tuoberalC netsneid artxE,1,NULL,NULL,627,55,53803,0
+666,ietneciL llihcdniW + oerC,1,NULL,NULL,268,29,56005,0
+684,neilnO PS po kaawartnI wuobpo gnidielegeB,1,NULL,NULL,119,97,56076,0
+693,uelav fo foorp krarebyC,1,NULL,NULL,731,55,57380,0
+699,lyoP lasoporP,1,NULL,NULL,517,4,57090,0
+701,nsoitatskrow 3,1,NULL,NULL,840,5,57359,0
+715,escivreS eraCnoitneverP,1,NULL,NULL,174,94,48546,0
+720,ap + hctiws,1,NULL,NULL,533,173,57423,0
+721,rtats ed jib gnitsurtiu - ehgrebnednaV niboR,1,NULL,NULL,422,5,53445,0
+722,psotpal PH 2,1,NULL,NULL,304,5,52916,0
+724,umimerp sub 563 tfosorciM ot evoM,1,NULL,NULL,857,NULL,57506,0
+732,HESQ - puorG 1Q 3202 netsneideitnetsissA tnioPerahS,1,NULL,NULL,268,102,57509,0
+741,uwobwuein tietivitcennoC,1,NULL,NULL,225,173,55906,0
+749,asltA secivreS lanoitarepO,1,NULL,NULL,590,60,54823,0
+761,IDS etarelecca & evorpmI,1,NULL,NULL,25,64,56763,0
+763,rtoppuS & secivreS lanoitarepO,1,NULL,NULL,240,87,52297,0
+765,sesyurcreV naJ-leraK rekrewedem ewueiN,1,NULL,NULL,422,5,57561,0
+771,entsneid krewteN,1,NULL,NULL,118,83,57624,0
+784,603x 0401 BE PH + 9G 056 BE PH,1,NULL,NULL,305,5,57650,0
+785,G9 004 orP PH,1,NULL,NULL,347,5,56562,0
+786,ckaPeraC + 9G 004 orP PH artxe x3,1,NULL,NULL,347,5,57414,0
+800,0F4 etagitroF,1,NULL,NULL,409,173,57630,0
+813,erdnefeD SM - cetnamyS eitargiM,1,NULL,NULL,95,60,57775,0
+814,rkewten + ifiw gnidierbtiU,1,NULL,NULL,656,173,55265,0
+815,2302 seitasilamitpo ytiruceS,1,NULL,NULL,677,13,57790,0
+819,g?nidierbtiumar fo 9G 004 orP PH,1,NULL,NULL,443,5,57737,0
+822,jeiragluB llaweriF,1,NULL,NULL,763,36,57625,0
+839,escivreS lanoitarepO saltA,1,NULL,NULL,251,62,57184,0
+844,escivreS lanoitarepO saltA,1,NULL,NULL,543,19,57186,0
+846,PSU ewuein letsrooV,1,NULL,NULL,240,87,57452,0
+167,DRX tfosorciM,1,NULL,NULL,25,19,55142,0
+169,akD wueiN eitatnemelpmi MRC,1,NULL,NULL,816,105,53704,0
+196,ietatnemgeskrewteN 1 esaF,1,NULL,NULL,423,13,51882,0
+199,tyiruceS krowteN,1,NULL,NULL,423,13,54449,0
+201,sherfer llawerif + gnissolpo RDE,1,NULL,NULL,131,13,54962,0
+202,ietatnemelpmi RDEitroF,1,NULL,NULL,423,13,55302,0
+203,?)izA ni s'E15 ao( ni-edart WF tenitroF,1,NULL,NULL,457,13,55760,0
+206,esitca ocavaS gnidraobnO,1,NULL,NULL,818,55,55489,0
+220,seafsgnireovtiU eitargiM ataD llihcdniW aivolG,1,NULL,NULL,547,121,50111,0
+223,APS tiu netsjilkutS gnireenignE nedaL,1,NULL,NULL,547,121,53884,0
+224,esitivitcA troppuS tcejorP SMEG,1,NULL,NULL,136,121,54951,0
+244,MSD,1,NULL,NULL,290,20,55435,0
+246,owlfkrow tseuqer tessa gnidierbtiU,1,NULL,NULL,743,9,53785,0
+248,ntioperahs neru,1,NULL,NULL,717,9,55774,0
+252,ngidielegeb tnioPerahS,1,NULL,NULL,826,20,55513,0
+254,etnartni gninuetsrednO,1,NULL,NULL,636,20,54320,0
+260,aglsrevdnaam ne gnirotinom kaampo eitasilamitpO,1,NULL,NULL,159,90,55377,0
+261,elenosrep teh nav esulcycnaabpool ne negnidielpo gniglovpO,1,NULL,NULL,159,90,55378,0
+262,BIrewoP etareleccA & evorpmI,1,NULL,NULL,823,90,56762,0
+268,ryevocsiD eulaV an seitcA,1,NULL,NULL,629,102,52054,0
+269,2002 tnioPerahS,1,NULL,NULL,510,20,48371,0
+305,rtoppuS IB,1,NULL,NULL,418,90,53731,0
+314, 8oerC & 21 llihcdniW edargpU,1,NULL,NULL,384,121,54352,0
+315,ietasilamitpO ytiruceS,1,NULL,NULL,132,19,55781,0
+322,eshctiws & sPA ewueiN,1,NULL,NULL,720,19,55417,0
+324,erganam tniopdne ne ecalpkrow nredoM,1,NULL,NULL,321,19,55239,0
+327,ietasilamitpO ytiruceS,1,NULL,NULL,829,19,55080,0
+331,ngissolpo CAN ssapraelC,1,NULL,NULL,421,19,54161,0
+332,rtoppus llaweriF,1,NULL,NULL,45,19,53953,0
+346,ngidielegeb & tcejorpataD,1,NULL,NULL,118,90,50092,0
+352,IAD gnidielegeB,1,NULL,NULL,831,90,54593,0
+365,teareleccA & evorpmI,1,NULL,NULL,683,20,55220,0
+370,abL tseT tenitroF,0,NULL,NULL,1,42,55918,0
+379,2302/2202 secivreS ToI,1,NULL,NULL,49,8,56107,0
+387,ietasilamitpO ytiruceS,1,NULL,NULL,17,50,55919,0
+388,2202-1Q nehctiwS,1,NULL,NULL,743,50,53986,0
+403,rsevreS SDR gnignavreV,1,NULL,NULL,724,50,48839,0
+413,ngiwueinrev tniopdnE ne etadpU ytiruceS,1,NULL,NULL,213,64,54238,0
+423,ckapsserpxE feitanretlA,1,NULL,NULL,24,97,48828,0
+429,ocp rednefeD SM RDE,1,NULL,NULL,118,70,55181,0
+459,olot gnipeeketaG,1,NULL,NULL,56,20,56271,0
+461,teamotuArewoP & tnioPerahS gninuetsrednO,1,NULL,NULL,3,20,56415,0
+468,itdua ytiruceS,1,NULL,NULL,152,4,56037,0
+477,olrtnoc ssecca krowteN,1,NULL,NULL,612,3,56096,0
+487,ntemyolped tolipotuA,1,NULL,NULL,840,96,56550,0
+489,eshctiws negnavrev,1,NULL,NULL,144,19,56496,0
+491,a)irav( tenitroF,1,NULL,NULL,817,55,56605,0
+501,jkilreeD arfnI,1,NULL,NULL,577,13,51948,0
+506,DRX SM,1,NULL,NULL,339,NULL,56662,0
+512,engnigitsev artxE,1,NULL,NULL,45,19,56021,0
+516,nsoituloS drowssap noitartsinimdA lacoL + rotartsinimda-TCI tot nekrepeb nethcer nimdA,1,NULL,NULL,817,55,56689,0
+517,ngiwueinrev retsulc llaweriF,1,NULL,NULL,96,NULL,56629,0
+524,lslaweriF gniwueinreV,1,NULL,NULL,758,56,56767,0
+531,neutnI tezpO,1,NULL,NULL,817,46,56778,0
+532,onitareleccA eruzA,0,NULL,NULL,1,69,56775,0
+533,tyiruces SM esylanA,1,NULL,NULL,144,19,56647,0
+546,kscirtV,0,NULL,NULL,1,84,56851,1
+557,ietasilamitpO ytiruceS,1,NULL,NULL,629,56,54215,0
+575,VAI,1,NULL,NULL,612,20,55987,0
+576,DRX SM,1,NULL,NULL,653,36,56969,0
+581,neutnI/MCCS,1,NULL,NULL,848,46,57016,0
+596,BI rewoP kcart tsaF,1,NULL,NULL,850,90,55677,0
+601,elnitneS tfosorciM puteS,1,NULL,NULL,1,42,57132,0
+603,ietargetni TI lanretnI NEGeurT,0,NULL,NULL,1,42,54436,1
+606,ietasilamitpO ytiruceS,1,NULL,NULL,119,64,57128,0
+608,ietargim LQS sdniwralos,1,NULL,NULL,167,NULL,57139,0
+613,anlp ytiunitnoc ssenisub & tnemssessa ytiruceS,1,NULL,NULL,851,104,57182,0
+651,udolC ot srevreseliF etargiM,1,NULL,NULL,30,102,57208,0
+653,enmaxesdiehgiliev tezpO,1,NULL,NULL,249,107,34079,0
+661,escivreS eitamrofsnarT MOBx,1,NULL,NULL,243,102,56993,0
+665,ssenerawa resu ne tidua AVI,1,NULL,NULL,853,7,56503,0
+671,ngissolpo RDE,1,NULL,NULL,243,173,57296,0
+672,ngivegmo tnanet nav nettezrevo & ngisedeR,1,NULL,NULL,290,20,56673,0
+680,ntioPerahS tegduB,1,NULL,NULL,154,97,44120,0
+689,escnecil ne gnilebal tnemucod,1,NULL,NULL,125,102,54606,0
+690,ntemssessA ytilibarenluV lanretnI,1,NULL,NULL,724,173,57166,0
+691,ssenerawa resU & AVI,1,NULL,NULL,724,173,57146,0
+700,t)enartni tezpo( tnioperahs gniwueinreV,1,NULL,NULL,394,20,56973,0
+702,Q1 3202 troppus daC,1,NULL,NULL,136,97,57071,0
+707,Q1 3202 segnahc llams MLP & DAC,1,NULL,NULL,136,97,57070,0
+708,Q1 3202 troppus tekcuB,1,NULL,NULL,136,97,57069,0
+709,2302 TI-EMED netsneideitnetsissa TI,1,NULL,NULL,430,97,57214,0
+713,tyiruceS,1,NULL,NULL,830,19,56340,0
+714,2102 1H etareleccA & evorpmI,1,NULL,NULL,74,97,48350,0
+716,onitavonnI - )IU( IRD rof gnirotinoM noitarbiV,1,NULL,NULL,2,8,57463,0
+717,RID rof gnirotinoM noitarbiV,1,NULL,NULL,2,8,57223,0
+723,2302 llihcdniW ecnatsissA,1,NULL,NULL,737,127,57271,0
+729,2302 A&I,1,NULL,NULL,538,29,57459,0
+737,PEIWS gnissapnaa + tropxe GNP llihcdniW,1,NULL,NULL,643,102,57138,0
+738,APS duolc arfnI,1,NULL,NULL,231,19,55690,0
+739,ngigilieveb 563 tfosorciM,1,NULL,NULL,144,19,57491,0
+747,taadtcejorp + xobpord eitargiM,1,NULL,NULL,858,96,57475,0
+760,BI rewoP eulaV fo foorP,1,NULL,NULL,859,90,57400,0
+764,ietatnemges krewteN,1,NULL,NULL,511,62,50520,0
+767,DRE + gniwueinrev syawetag ytiruceS,1,NULL,NULL,243,173,57529,0
+774,ngiledoM eitarugifnoC,1,NULL,NULL,861,29,57471,0
+778,t)nemegagnE remotsuC 563 scimanyD( seitaulave etadpU,1,NULL,NULL,824,105,56635,0
+782,engnilekkiwtno XD enretnI,0,NULL,NULL,1,NULL,17053,1
+783,ntemssessa IBrewoP/ataD,1,NULL,NULL,642,90,57538,0
+798,onitelpmoC noitargiM - spmuP ADEW,1,NULL,NULL,136,121,55006,0
+811,DRX tfosorciM,1,NULL,NULL,234,173,57753,0
+816,urutcetihcra EB OT ed mvi SI SA ed nav tnemssessa - 1 esaf - tnemeganaM margorP duolC,1,NULL,NULL,867,105,57657,0
+820,onitargetni DA llihcdniW,1,NULL,NULL,476,102,57752,0
+821,ntemecalper llawerif,1,NULL,NULL,95,60,57773,0
+828,DMEC + llihcdniW edargpU,1,NULL,NULL,428,102,57865,0
+840,coledI roov netsneiD ToI,1,NULL,NULL,869,8,55816,0
+464,iezoC eitasilamitpo ytiruceS,1,NULL,NULL,761,168,52556,0
+473,enru enutni SM,1,NULL,NULL,564,168,56483,0
+503,fam lortiU,1,NULL,NULL,155,168,56590,0
+504,ietavitca AFM,1,NULL,NULL,844,168,56618,0
+528,2102 ced( tiduA ytiruces etnerruceR,1,NULL,NULL,483,168,49403,0
+578,xsP nav tset NEP an seitcA,1,NULL,NULL,394,168,56987,0
+587,i)raunaj( tiduA ytiruceS eskjilraaJ etnerruceR,1,NULL,NULL,581,168,51346,0
+604,ntioPerahS,1,NULL,NULL,342,168,56485,0
+711,i)luj( tiduA ytiruceS,1,NULL,NULL,568,168,50504,0
+712,i)luj( tiduA ytiruceS,1,NULL,NULL,272,168,50100,0
+730,ietasilamitpO ytiruceS,1,NULL,NULL,198,168,57534,0
+731,tyiruces eitasilamitpO,1,NULL,NULL,287,168,57517,0
+775,t)iduA( tnanet ed stnemegnahC,1,NULL,NULL,587,168,57634,0
+777,itdua ytiruceS,1,NULL,NULL,569,168,57607,0
+787,uptes ecioV & smaeT gnissapnaA,1,NULL,NULL,863,168,57661,0
+797,leimE roov 563M,1,NULL,NULL,711,168,57692,0
+810,msaeT tfosorciM gnitlusnoC,1,NULL,NULL,774,168,57761,0
+818,cynatlusnoc smaeT,1,NULL,NULL,836,168,57666,0
+826,etzpo AFM,1,NULL,NULL,170,168,57746,0
+834,653 tfosorciM eitargiM,1,NULL,NULL,868,168,57802,0
+426,enrohebeot + potpal,1,NULL,NULL,569,168,56000,0
+430,escivreS eraCnoitneverP,1,NULL,NULL,804,168,48539,0
+431,escivreS eraCnoitneverP,1,NULL,NULL,296,168,50801,0
+433,10neG 053LM tnaiLorP EPH,1,NULL,NULL,772,168,55631,0
+437,isuhreV naV gnidierebrooV reT eitatlusnoC,1,NULL,NULL,178,168,56343,0
+441,tsnioP sseccA ednemokjiB,1,NULL,NULL,447,168,56342,0
+443,fiiW newueinreV,1,NULL,NULL,444,168,56329,0
+450,psotpaL ednemokjiB,1,NULL,NULL,522,168,56389,0
+451,ceioV & smaeT,1,NULL,NULL,838,168,55813,0
+452,etzpo AFM,1,NULL,NULL,106,168,55077,0
+456,erkrewedem ewuein noitatskroW,1,NULL,NULL,60,168,56393,0
+457,escivreS eraCnoitneverP,1,NULL,NULL,566,168,49330,0
+458,escivreS eraCnoitneverP,1,NULL,NULL,289,168,48207,0
+466,"sereviD ,enutnI ,tnioperahS ,563O",1,NULL,NULL,837,168,55524,0
+471,neitraM CP negnavreV,1,NULL,NULL,342,168,56445,0
+474,ietnetsissA etiS nO,1,NULL,NULL,503,168,56487,0
+479,ntioPerahS + s'7 swodniW gnignavreV,1,NULL,NULL,839,168,56515,0
+480,escivreS eraCnoitneverP,1,NULL,NULL,444,168,49338,0
+492,eldom D3 DACotuA rof inIM 2Z PH,1,NULL,NULL,532,168,56606,0
+493,ietnaillA raan KTOK nav reissod eitargiM,1,NULL,NULL,843,168,56501,0
+522,G9 056 kooBetilE PH x3,1,NULL,NULL,448,168,56746,0
+525,OCP ecioV & smaeT,1,NULL,NULL,597,168,56686,0
+539,FAM tezpo,1,NULL,NULL,846,168,56817,0
+543,iegnE RDX eitallatsnI,1,NULL,NULL,837,168,56692,0
+548,psotpal 51 artxe tnemellorne,1,NULL,NULL,174,168,56757,0
+553,n.etsneid esreviD,1,NULL,NULL,283,168,56841,0
+555,itduA eitamrofsnarT elatigiD,1,NULL,NULL,847,168,56849,0
+579,etzpo enutnI,1,NULL,NULL,836,168,56935,0
+594,itduA eitamrofsnarT elatigiD,1,NULL,NULL,849,168,57086,0
+607,e)dargpu( enO saltA,1,NULL,NULL,342,168,57133,0
+611,etzpo enutnI,1,NULL,NULL,394,168,56972,0
+617,ceioV & smaeT,1,NULL,NULL,846,168,57211,0
+641,psotpal eitallatsnI,1,NULL,NULL,106,168,57263,0
+643,gereS tsopkrew ewueiN,1,NULL,NULL,372,168,56984,0
+644,itdua van letsrooV,1,NULL,NULL,837,168,56392,0
+683,syniL potkseD,1,NULL,NULL,378,168,57358,0
+686,PC ewueiN,1,NULL,NULL,766,168,57351,0
+695,neutnI tezpo eredrev,1,NULL,NULL,106,168,57377,0
+696,ceioV & smaeT,1,NULL,NULL,377,168,57394,0
+697,ceioV & smaeT,1,NULL,NULL,412,168,57392,0
+698,ietasiratnevnI,1,NULL,NULL,855,168,57412,0
+705,psotpal eitallatsnI,1,NULL,NULL,394,168,57455,0
+725,rsekrewedem ewuein nerohebeot + spotpaL,1,NULL,NULL,567,168,57433,0
+726,up-kcab 563O,1,NULL,NULL,106,168,57467,0
+733,erdreovkaaz ewuein potpaL,1,NULL,NULL,65,168,57508,0
+735,etzpo + seitnecil AfM,1,NULL,NULL,335,168,57518,0
+759,FPM 3A,1,NULL,NULL,553,168,57545,0
+766,nseiP cuL potpal ewueiN,1,NULL,NULL,860,168,57583,0
+768,tyiruces + muimerp sub 563SM raan eitargiM,1,NULL,NULL,845,168,57592,0
+769,sCP negnavreV,1,NULL,NULL,556,168,57498,0
+776,iezoC rof tuo-llor ekirtsdworC,1,NULL,NULL,862,168,57622,0
+779,WSR,1,NULL,NULL,837,168,55523,0
+780,anmeggurB reteP ebodA,1,NULL,NULL,106,168,57523,0
+781,reaCnoitneverP + CP,1,NULL,NULL,847,168,57627,0
+789,erkiurbeg ewueiN,1,NULL,NULL,593,168,57646,0
+790,2)+( 7G 004 kseDorP PH,1,NULL,NULL,191,168,57582,0
+792,isuhreV eitnetsissA/tiduA,1,NULL,NULL,774,168,57675,0
+799,ecneS s'CP tnemellorne-eR,1,NULL,NULL,837,168,57704,0
+812,psotpaL,1,NULL,NULL,58,168,57708,0
+817,ietarugifnocreh llaweriF,1,NULL,NULL,568,168,57795,0
+823,isuhreV eitnetsissA,1,NULL,NULL,774,168,57760,0
+825,rdaC 2V OI xelF PH,1,NULL,NULL,372,168,57580,0
+831,rsetupmoC ewueiN,1,NULL,NULL,266,168,57784,0
+843,beodA roov CP ewueiN,1,NULL,NULL,203,168,57749,0
+187,ntanet 563O revresretnirp  xirtiC,1,00:00.0,NULL,817,55,54873,0
+188,saremac tem ecart & kcart - 0202WQ tcejorp - idnom - ToI,1,00:00.0,NULL,511,8,49416,0
+192,ietasilamitpO ytiruceS,1,00:00.0,NULL,35,60,52744,0
+193,ngiresilamitpo ytiruceS,1,00:00.0,NULL,720,55,55075,0
+194,olrtiu tniopdne rof rednefeD,1,00:00.0,NULL,351,55,54503,0
+195,DRX tfosorciM + AFM eruzA,1,00:00.0,NULL,422,56,55001,0
+214,reuzA no saltA ot evom CTD arfnI,1,00:00.0,NULL,629,56,55846,0
+217,eglrevO MLP,0,00:00.0,NULL,1,32,NULL,0
+227,cynatlusnoc gnitsoh xrowgnihT,1,00:00.0,NULL,468,NULL,NULL,0
+235,ngimrovreissoD gnidielgeb tnioPerahS tenartnI,1,00:00.0,NULL,153,97,54146,0
+237,entsneid A&I,1,00:00.0,NULL,424,20,55252,0
+240,erissod laartnec neru artxE,1,00:00.0,NULL,93,9,55153,0
+242,2202 etareleccA & evorpmI,1,00:00.0,NULL,524,9,52781,0
+243,csitylana atad gnicruos-oC,1,00:00.0,NULL,430,90,54070,0
+247,ctennocciP netsneid artxE,1,00:00.0,NULL,507,97,54422,0
+249,ereheb tenartni roov secivres A&I,1,00:00.0,NULL,95,97,55165,0
+250,HESQ -2202 netsneideitnetsissA tnioPerahS,1,00:00.0,NULL,268,97,52208,0
+253,neilno tnioPerahS po tenartni lortiU,1,00:00.0,NULL,49,97,47977,0
+255,deargpu 21 llihcdniW,1,00:00.0,NULL,420,97,53136,0
+256,Q4.2202 eraleseoR peorG ycnatlusnoc AID,1,00:00.0,NULL,139,90,56414,0
+257,erbmetpeS + 4Q tegdub tnirpS,1,00:00.0,NULL,136,97,55740,0
+258,erbmetpes + 4Q troppus tekcuB,1,00:00.0,NULL,136,97,55741,0
+264,653eciffo rof rednefeD ne RDEitroF,1,00:00.0,NULL,141,36,53201,0
+266,rmoftalp XSE newueinreV,1,00:00.0,NULL,246,36,54796,0
+272,Q3 2202 troppus DAC,1,00:00.0,NULL,136,97,55727,0
+273,rkowmaeT olaV,1,00:00.0,NULL,348,97,54668,0
+274,2202-1202 etareleccA & evorpmI,1,00:00.0,NULL,420,97,51376,0
+275,teagitroF,1,00:00.0,NULL,141,36,53634,0
+276,teis ewuein siuhreV,1,00:00.0,NULL,141,36,53805,0
+277,ngiwueinrevruutcurtsarfnI,1,00:00.0,NULL,740,36,54036,0
+278,ngiwueinrevruutcurtsarfnI,1,00:00.0,NULL,508,36,54753,0
+279,up-kcab & ytiruces 5630,1,00:00.0,NULL,246,36,54795,0
+280,IASENODNI tcejorP,1,00:00.0,NULL,763,36,54982,0
+281,ngiwueinrevruutcurtsarfnI,1,00:00.0,NULL,482,36,55026,0
+286,ietadilosnoC retnecataD,1,00:00.0,NULL,642,36,55034,0
+288,1902 secivreS etareleccA & evorpmI,1,00:00.0,NULL,737,127,43671,0
+289,SAV gniwueinreV,1,00:00.0,NULL,41,36,55411,0
+290,llihcdniW eitatnemelpmI,1,00:00.0,NULL,134,127,44538,0
+292,GORF arfni gniwueinreV,1,00:00.0,NULL,726,36,55473,0
+293,esitasilamitpo ytiruceS,1,00:00.0,NULL,621,36,55592,0
+294,nkiLtcejorP puteS,1,00:00.0,NULL,321,127,47491,0
+295,GARF arfni gniwueinreV,1,00:00.0,NULL,726,36,55711,0
+296,ewiveR ssecorP ssenisuB MLP,1,00:00.0,NULL,45,127,51060,0
+297,ngiwueinrevruutcurtsarfni & gnignavrev ASV,1,00:00.0,NULL,313,36,55886,0
+298,BI rewoP pohskroW,1,00:00.0,NULL,120,90,55133,0
+299,2202 ecnatsissA,1,00:00.0,NULL,737,127,52216,0
+300,ietargim enilnO egnahcxE ne -niemoD,1,00:00.0,NULL,313,36,55888,0
+301,nkiLtcejorP + 21 llihcdniW ot edargpU,1,00:00.0,NULL,737,127,52217,0
+302,nginiart dna 7 oerC ot edargpU,1,00:00.0,NULL,737,127,52218,0
+303,rmoftalp XD wueiN,1,00:00.0,NULL,409,50,48701,0
+304,mseti STOC - llihcdniW ot 009PMOC morf ytilanoitcnuf MLP,1,00:00.0,NULL,NULL,127,NULL,0
+308,2202 secivreS etareleccA & evorpmI,1,00:00.0,NULL,NULL,127,53297,0
+309,cynatlusnoc noitamroF,1,00:00.0,NULL,737,127,53975,0
+345,IT-EMED netsneideitnetsissa TI,1,00:00.0,NULL,430,97,48151,0
+348,reahskcilC + yloP letsrooV,1,00:00.0,NULL,517,4,55364,0
+349,1902 netsneideitnetsissa tnioPerahS,1,00:00.0,NULL,748,97,41729,0
+356,icrtemaraP oerC,1,00:00.0,NULL,546,138,53204,0
+358,ntioPerahS/olaV gninuetsrednO,1,00:00.0,NULL,520,97,51792,0
+359,reuzA no 21 llihcdniW,1,00:00.0,NULL,136,97,55754,0
+364,tyiruces krowten evorpmi,1,00:00.0,NULL,655,72,54551,0
+371,ietasilamitpO ytiruceS,1,00:00.0,NULL,748,64,55923,0
+377,altsreH & serpY hserfer erawdrah,1,00:00.0,NULL,655,72,54334,0
+384,ntiopdne RDEitroF,1,00:00.0,NULL,434,NULL,53526,0
+414,engad 4 secivres lanoitarepO,1,00:00.0,NULL,577,NULL,56241,0
+428,NTABARB-SMAALV KVK - AKOV,1,00:00.0,NULL,394,168,56078,0
+438,cseps duolc edargpU,1,00:00.0,NULL,554,36,56122,0
+439,ietasilamitpO ytiruceS,1,00:00.0,NULL,554,36,56088,0
+446,ietatnemelpmi llihcdniW,1,00:00.0,NULL,507,97,56277,0
+447,escivreS lanoitarepO deganaM,1,00:00.0,NULL,425,72,56035,0
+454,OCP potkseD lautriV eruzA,1,00:00.0,NULL,9,7,55925,0
+467,ngitropeR noitcudorP - IBrewoP,1,00:00.0,NULL,26,8,56375,0
+472,ngitlusnoc xirtiC,1,00:00.0,NULL,620,55,56462,0
+482,MsV eitcudorp egarots gnidierbtiU,1,00:00.0,NULL,817,55,56573,0
+496,ANW-DS gnilebbudtnO/gnidierbtIU,1,00:00.0,NULL,630,55,54488,0
+527,deargpu 21 llihcdniW,1,00:00.0,NULL,577,97,NULL,0
+545,NA akbaC & arieW WH merp no noitasidradnatS,1,00:00.0,NULL,655,72,55156,0
+598,ietargim retsulC llaweriF F002-GTF,0,00:00.0,NULL,1,42,56828,0
+610,urutcurtsarfni TI gniwueinreV,1,00:00.0,NULL,427,36,56270,0
+634,altrop remotsuc rof gnicruos oC,1,00:00.0,NULL,95,97,51089,0
+642,kscirtV rof sthgisni ataD,0,00:00.0,NULL,1,8,42136,1
+678,deargpu 21 llihcdniW,1,00:00.0,NULL,549,102,NULL,0
+832,2302 stcejorP llamS - DPS,1,00:00.0,NULL,1,NULL,NULL,0
+1,2202 kseD ecivreS - I&C,1,00:00.0,59:00.0,1,73,NULL,0
+5,ntempoleveD erawtfoS lanretnI,0,00:00.0,59:00.0,1,138,NULL,0
+6,2202 nekaT enretnI - CCS,0,00:00.0,59:00.0,1,9,NULL,0
+7,seylanA ocisiR secorP,1,00:00.0,59:00.0,249,105,54278,0
+12,uslpriA - VN eporuE krapireV,1,00:00.0,59:00.0,810,105,53756,0
+168,etkcub 563 scimanyD,1,NULL,59:00.0,815,105,53967,0
+172,BI rewoP ne gnivegmo scimanyD MRC neresilamitpO - ejtneopaK GKC,1,00:00.0,59:00.0,819,105,54314,0
+174,ietargetni tnioPerahS tnemegagnE remotsuC 563 scimanyD,1,00:00.0,59:00.0,822,105,55399,0
+175,reotser tnioPerahS SOVE,1,00:00.0,59:00.0,820,105,54292,0
+176,RMC gnidielegeB - LXPARTNYS,1,00:00.0,59:00.0,824,105,53339,0
+177,CE troppuS - lekniwkeehtopyH,1,00:00.0,59:00.0,821,105,55258,0
+178,RMC - selyT,1,00:00.0,59:00.0,825,105,53693,0
+179,0d4 nobletseb - BA artnyS,1,00:00.0,59:00.0,823,105,54222,0
+180,etnitroF pu edarT,1,00:00.0,59:00.0,251,62,55472,0
+181,rmoftalp-TI gniwueinreV,1,00:00.0,00:00.0,213,64,54928,0
+182,ietatnemgeskrewteN,1,00:00.0,59:00.0,35,60,55309,0
+183,uptes CON tnemssessa,1,00:00.0,59:00.0,167,104,55152,0
+184,tsroop21 EoP hctiws artxE,1,00:00.0,59:00.0,241,62,55484,0
+185,DREitroF eitatnemelpmI,1,00:00.0,59:00.0,55,52,53081,0
+189,2202 stcejorP llamS - PCS,1,00:00.0,59:00.0,1,NULL,NULL,0
+190,2202 kseD ecivreS - DPS,1,00:00.0,59:00.0,1,NULL,NULL,0
+191,"r)etneCv ne erawmrif ,rAP3 ,iXSE( sedargpu eleknE",1,00:00.0,59:00.0,434,62,55860,0
+204,SXE edargpU,1,00:00.0,59:00.0,443,62,55071,0
+205,2202 stcejorP llamS - DPS,1,00:00.0,59:00.0,1,NULL,NULL,0
+208,oTI etarelecca dna evorpmI,1,00:00.0,59:00.0,655,8,50872,0
+209,ppA gnissecorP redrO,1,00:00.0,59:00.0,26,8,51760,0
+210,2202 hcraeseR tcudorP - DPS,0,00:00.0,59:00.0,1,NULL,NULL,0
+211,2202 nekaT enretnI - DPS,0,00:00.0,59:00.0,1,NULL,NULL,0
+212,2202 negnidielpO - I&A,1,00:00.0,59:00.0,1,133,NULL,0
+213,2202 nekat enretnI - I&A,0,00:00.0,59:00.0,1,133,NULL,0
+215,mseti STOC - llihcdniW ot 009PMOC morf ytilanoitcnuf MLP,1,00:00.0,59:00.0,45,32,52303,0
+216, EpuorG remotsuC secivreS deganaM - I&C,1,00:00.0,59:00.0,1,13,NULL,0
+218,2202/60-1202/70 DAC etareleccA & evorpmI,1,00:00.0,59:00.0,49,29,50524,0
+219,2202 selaserP I&A,0,00:00.0,59:00.0,1,NULL,NULL,0
+221,ntempoleveD erawtfoS llamS DPS,1,00:00.0,00:00.0,1,110,NULL,0
+222,2202 hcraeseR tcudorP - AID/CCS,0,00:00.0,59:00.0,1,NULL,NULL,0
+225,ntempoleved oGyliL - relaB,1,00:00.0,59:00.0,2,8,NULL,0
+226,ngidielegeb tcejart ytiruceS,1,NULL,59:00.0,167,19,47520,0
+228,zeibuT rof llihcdniW,1,00:00.0,59:00.0,737,32,53974,0
+231,AD + 9 oerC + 21 llihcdniW ot edargpU,1,00:00.0,59:00.0,320,29,55103,0
+236,araj 5 eisiv MLP & DAC,1,00:00.0,59:00.0,590,102,51466,0
+238,ereheblekitrA CoP,1,00:00.0,59:00.0,164,91,55651,0
+239,2302-2202 etareleccA & evorpmI,1,00:00.0,59:00.0,545,96,51996,0
+241,.021 raan 1.11 llihcdniW edargpU,1,00:00.0,59:00.0,321,127,55450,0
+265,ngiwueinrevruutcurtsarfni & ASV,1,00:00.0,59:00.0,132,19,55780,0
+271,DMEC llihcdniW edargpU,1,00:00.0,59:00.0,NULL,138,54494,0
+282,llihcdniW & oerC - 3Q A&I,1,00:00.0,59:00.0,590,102,55102,0
+283,entsneid eitarugifnoc eitallatsnI,1,00:00.0,59:00.0,419,91,54925,0
+284,2202 etareleccA & evorpmI,1,00:00.0,59:00.0,164,91,52660,0
+285,altroP remotsuC,0,00:00.0,59:00.0,1,91,53548,1
+287,lgovrev - tenartni negnidierbtiU,1,00:00.0,59:00.0,120,91,50579,0
+291,ereheblekitrA - tnioPerahS eitargiM : ytinutroppO,1,00:00.0,59:00.0,164,91,49494,0
+307,ermozan gnicruoc-oC,1,00:00.0,59:00.0,425,72,55687,0
+312,2202 etareleccA & evorpmI,1,00:00.0,59:00.0,559,96,52304,0
+341,2202 stcejorP llamS - CCS,1,NULL,59:00.0,1,NULL,NULL,0
+344,2202 netcejorp tegdub A&I,1,00:00.0,59:00.0,677,96,51991,0
+347,teareleccA & evorpmI,1,00:00.0,59:00.0,428,102,52214,0
+350,.03 kroW ot timreP SOVE,1,00:00.0,59:00.0,249,105,51934,0
+351,ntirpeulb ssenisuB - ssecorp dne ot dne eht ni MLP,1,00:00.0,59:00.0,549,102,53869,0
+353,2202 secivreS troovreV lexA,1,00:00.0,59:00.0,833,105,53621,0
+354,RMC 563 scimanyD SM,0,00:00.0,59:00.0,1,105,52182,0
+355,iicides + tratskcik - dnalerI etaerC,1,00:00.0,59:00.0,832,105,53708,0
+357,2302 nekat enretnI - I&A,0,00:00.0,59:00.0,1,133,NULL,0
+361,reihpaS,0,00:00.0,59:00.0,1,138,55693,1
+362,ntemeganaM ecalpkroW & gnirotinoM 563M,1,00:00.0,59:00.0,834,46,51962,0
+366,rkewten gniretnemgeS,1,00:00.0,59:00.0,612,50,49592,0
+367,teadpu mroftalp TCI,1,00:00.0,59:00.0,234,50,50002,0
+368,deargpu niemoD,1,00:00.0,59:00.0,76,50,51767,0
+372,reehpSv edargpU,1,00:00.0,59:00.0,76,50,51866,0
+374,roftseW retnecatad gniwueinreV,1,00:00.0,59:00.0,537,50,52250,0
+375,2202 kseD ecivreS - EC,1,00:00.0,59:00.0,1,105,NULL,0
+376,engad 4 secivres lanoitarepO,1,00:00.0,59:00.0,577,33,54184,0
+378,2302 kseD ecivreS - EC,1,00:00.0,59:00.0,1,105,NULL,0
+380,llihcdniW + 8 oerC gnidielpO,1,00:00.0,59:00.0,408,NULL,56120,0
+381,elerubneket gnikretsrev & eitasilamitpO,1,00:00.0,59:00.0,12,NULL,56205,0
+382,y)tinutroppO(tnempleveD tcudorP weN,1,00:00.0,59:00.0,585,91,NULL,0
+385,rtatskciuq - EC SM,1,00:00.0,59:00.0,399,105,50471,0
+390,nkiltcejorP,1,00:00.0,59:00.0,856,102,55453,0
+392,etnitroF tem tnemecalpsiD SLPM,1,00:00.0,59:00.0,434,50,51746,0
+393,rmoftalp hcsifarg revreSneX detacideD,1,00:00.0,59:00.0,425,50,51856,0
+394,enthcer-nimda eitnetsissA,1,00:00.0,59:00.0,76,50,52759,0
+395,rsevres eduo tiulsfa & kcar siukpO,1,00:00.0,59:00.0,76,50,52140,0
+396,itdua nav eitcnuf ni - ruutcurtsarfni ewueiN,1,00:00.0,59:00.0,165,50,53876,0
+397,umrtneceitubirtsid tietivitcennoC,1,00:00.0,59:00.0,520,50,54520,0
+399,reuzA - etadpu mroftalP,1,00:00.0,59:00.0,73,50,55184,0
+400,urutcurtsarfnI gniwueinreV,1,00:00.0,59:00.0,76,50,55333,0
+401,SAV gnignavreV,1,00:00.0,59:00.0,152,50,55668,0
+404,urutcurtsarfni gnignavreV,1,00:00.0,59:00.0,40,50,52435,0
+405,eshctiws egdE & s'PA,1,00:00.0,59:00.0,40,50,52436,0
+406,ngivegmo PAS ne ytivilpmiS nelebbudtnO,1,00:00.0,59:00.0,3,50,50275,0
+407,enkkapnaa pu-kcaB,1,00:00.0,59:00.0,3,50,51537,0
+408,tyiruceS tniopdnE,1,00:00.0,59:00.0,3,50,53207,0
+409,erzylanaitroF,1,00:00.0,59:00.0,3,50,53661,0
+410,ngihctiws negnidierbtiu enielK,1,00:00.0,59:00.0,3,50,54445,0
+411,ertnecatad e2 siuhreV,1,00:00.0,59:00.0,40,50,54625,0
+412,sPA,1,00:00.0,59:00.0,743,50,49721,0
+415,ietasilamitpO ytiruceS,1,00:00.0,59:00.0,325,52,53966,0
+425,onitargim duolc tnemucoD,1,00:00.0,59:00.0,30,102,53660,0
+427,neO kseD ecivreS,1,00:00.0,59:00.0,1,88,NULL,0
+442,alrtneC ssenisuB tiunav reehebtnemucod lekitrA,1,00:00.0,59:00.0,164,91,56348,0
+444,n)oitargetni DA( llihcdniW ot noitargiM,1,00:00.0,59:00.0,428,102,44649,0
+445,entsneid etadpu&niatniaM,1,NULL,59:00.0,834,96,45946,0
+448,ngissolpo CAN,1,00:00.0,59:00.0,434,NULL,52356,0
+453,adcotuA noitarg?tnI,1,00:00.0,59:00.0,428,102,52197,0
+460,ietasilamitpo + eitargim scimanyD,1,00:00.0,59:00.0,355,105,56338,0
+463,g'niW' tnanet ekjilrednozfA,1,NULL,59:00.0,222,96,56233,0
+470,2302 negnidielpO - I&A,1,00:00.0,59:00.0,1,133,NULL,0
+476,ngivegmo yevruS,1,00:00.0,59:00.0,75,83,56513,0
+481,2202 etareleccA & evorpmI,1,00:00.0,59:00.0,331,102,51880,0
+494,ietargetni llihcdniW - PAS,1,00:00.0,59:00.0,643,102,56475,0
+499,PDE pu-kcab ednemokjib,1,00:00.0,59:00.0,51,64,56330,0
+502,2302 etareleccA & evorpmI,1,00:00.0,59:00.0,164,91,NULL,0
+505,ntiopdnE rof rednefeD eitallatsnI,1,00:00.0,59:00.0,271,62,54986,0
+508,ervreseitacilppa artxE,1,00:00.0,59:00.0,271,NULL,56674,0
+513,reocs ytiruceS/nekrewfa AFM,1,00:00.0,59:00.0,434,62,56516,0
+514,2302 kseD ecivreS - I&C,1,00:00.0,59:00.0,1,73,NULL,0
+515,rtopmI teJ,1,00:00.0,59:00.0,629,102,55847,0
+518,ervres saltA artxE,1,00:00.0,59:00.0,748,64,56644,0
+520,chtiws P8 tnemecalpeR,1,00:00.0,59:00.0,657,64,56716,0
+521,veirD epaT OTL letsrooV,1,00:00.0,59:00.0,35,60,55650,0
+534,amanniemod ewueiN,1,00:00.0,59:00.0,817,55,56764,0
+544,ekidohtemkrew elesrevinu esylanA,1,00:00.0,59:00.0,321,127,56800,0
+549,icrtemaraP oerC patsrevO + tratskciuQ llihcdniW,1,00:00.0,59:00.0,610,29,47732,0
+551,.09 oerC gniniarT etadpU,1,00:00.0,59:00.0,49,29,NULL,0
+552,2302 kseD ecivreS - DPS,1,00:00.0,59:00.0,1,33,NULL,0
+573,rmoftalp TCI etadpu/gniwueinreV,1,00:00.0,59:00.0,412,50,56269,0
+574,entakirbafflah nekkurdfa + nekkurdfa negnissapnaA - NYURBEBK,1,00:00.0,59:00.0,19,110,56862,0
+577,ngitalpmet eciovni nessapnaa :MRC,1,00:00.0,59:00.0,NULL,105,56852,0
+580,RLU trohs SOVE - stcudorp hcraeser ocavaS,0,00:00.0,59:00.0,1,105,1121,0
+593,ietasilamitpO ytiruceS,1,00:00.0,59:00.0,409,50,55914,0
+609,rsevres cetnamyS negnavreV,1,00:00.0,59:00.0,41,64,56882,0
+615,ngivegmo elgooG esylanA,1,00:00.0,59:00.0,820,105,NULL,0
+618,g)niglovpo( tenartnI olaV lortiU,1,00:00.0,59:00.0,355,96,50623,0
+619,2302 A&I - secivres elenoitarepO,1,00:00.0,59:00.0,677,96,NULL,0
+621,erdnefeD swodniW raan hctiws,1,00:00.0,59:00.0,225,64,56881,0
+622,2302 sgniteeM,0,00:00.0,59:00.0,1,3,NULL,0
+623,2402 sgniteeM,0,00:00.0,59:00.0,1,3,NULL,0
+624,2302 gninraeL & gniniarT,0,00:00.0,59:00.0,1,3,NULL,0
+625,2402 gninraeL & gniniarT,0,00:00.0,59:00.0,1,3,NULL,0
+626,2302 reffuB,0,00:00.0,59:00.0,1,3,NULL,0
+627,2402 reffuB,0,00:00.0,59:00.0,1,3,NULL,0
+628,2302 hcraeseR tcudorP,0,00:00.0,59:00.0,1,3,NULL,0
+629,2402 hcraeseR tcudorP,0,00:00.0,59:00.0,1,3,NULL,0
+630,2302 seitinutroppO,0,00:00.0,59:00.0,1,3,NULL,0
+631,2402 seitinutroppO,0,00:00.0,59:00.0,1,3,NULL,0
+632,2302 etareleccA & evorpmI,1,00:00.0,59:00.0,675,91,57075,0
+635,tsekcit - scimanyD SM,1,00:00.0,59:00.0,NULL,105,56978,0
+640,2302 etareleccA & evorpmI,1,00:00.0,59:00.0,249,105,57319,0
+645,nkiX,1,00:00.0,59:00.0,834,96,57022,0
+646,252 PH x5 + 024XR gnitupmoCN x4,1,00:00.0,59:00.0,720,55,57287,0
+648,ietartsigersrekeozeb,1,00:00.0,59:00.0,294,96,51953,0
+703,reutangis liamE,1,00:00.0,59:00.0,421,105,57368,0
+704,llihcdniW edargpU,0,00:00.0,59:00.0,NULL,102,NULL,0
+706,ppa laahtnO,1,00:00.0,59:00.0,655,105,57398,0
+745,alatropnetn?itap tezpO,1,00:00.0,59:00.0,222,96,55068,0
+746,me4 nennib swolfkrow tezpO,1,NULL,59:00.0,31,138,57564,0
+770,2302 etareleccA & evorpmI,1,00:00.0,59:00.0,823,105,56968,0
+804,eslaS tnemegagnE remotsuC SM,1,00:00.0,59:00.0,866,105,57165,0
+805,ntemessalk laatigiD,1,00:00.0,59:00.0,25,105,57623,0
+806,onitaidemer tnemegagnE remotsuC - ybaB eixirT,1,00:00.0,59:00.0,NULL,105,NULL,0
+838,2302 nekaT enretnI - DPS,0,00:00.0,59:00.0,1,NULL,NULL,0
+845,ednifed erp ocavaS :em4 eitatnemelpmi,1,00:00.0,00:00.0,418,138,57013,0

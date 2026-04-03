@@ -1,0 +1,194 @@
+SK,ID,PersonId,FirstName,LastName,Planning_Department_Sk,IsActive,Person_sk,Person_Department
+2,2,KNHT,asmohT,nsekfoH,2,1,9866,Tech - C&I - Services - Managed Services - Service Delivery CG A
+3,3,AEBB,rteB,rteaB,16,1,7312,Tech - C&I - Services - Managed Services
+4,4,KRLG,nnelG,reeikaL,2,1,13516,Tech - C&I - Services - Managed Services - Service Delivery CG A
+5,5,ANTJ,keoJ,hegnaT,30,1,41578,Tech - C&I - Services - Managed Services
+6,6,LNFP,rateP,nseloF,33,1,12401,Operations - Internal IT
+7,7,TODS,envS,oohtuD,11,1,29224,C&I - Tech - Comp Center - Hybrid Cloud
+8,8,GMVW,imW,emeG naV,13,1,1139,Tech - A&I - Comp Center - Data & Bus Applications
+9,9,MKVS,igtS,kerekreomnaV,24,1,23176,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+10,10,BNDO,erivilO,nenobeD,23,1,4972,Tech - C&I - Comp Center - Hybrid Cloud
+13,13,RSSJ,erpsaJ,isriehcS,16,1,21865,Tech - C&I - Services - Managed Services - Service Delivery CG E
+14,14,OMTT,jsihT,memoT,2,1,8760,Tech - C&I - Services - Managed Services - Service Delivery CG A
+15,15,LTNS,jnitS,etlloN,2,1,11583,Tech - C&I - Services - Managed Services - Service Delivery CG A
+16,16,GSDD,esirD,seyrgeD,2,1,26355,Tech - C&I - Services - Managed Services - Service Delivery CG A
+17,17,CKDT,omT,ckoceD,27,1,6307,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+18,26,HODB,rteB,ntoh'D,20,1,13213,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+19,27,BKVM,entraaM,elkcarbnaV,11,1,13532,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+20,34,MSDA,erdnaxelA,reusaM eD,17,1,35272,Tech - A&I - Services - Customer Success Management
+21,35,HGVA,nerA,hegeahreV,24,1,30141,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+22,36,DSVF,ipliF,hecsseirdnednaV,24,1,14810,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+23,37,LNCT,omT,ntallaC,14,1,39339,Tech - A&I - Comp Center - Customer Engagement
+24,38,PLCT,jsihT,leleppaC,24,1,41579,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+25,39,NLCM,elihciM,islenroC,24,1,39781,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+26,40,SPDT,jsihT,erppehcseD,24,1,21065,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+27,41,WLPY,anroY,lsewuaP,24,1,28286,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+28,42,INPS,aftS,oyniP,24,1,23458,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+29,45,IMKS,jnitS,pemiK,25,1,11595,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+30,46,RTDK,oftsirK,reettyureD,25,1,23825,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+31,47,LRDB,inmajneB,oroL eD,26,1,17395,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+32,48,FVLB,rtaB,reevefeL,13,1,3183,Tech - A&I - Comp Center - Data & Bus Applications
+33,49,DNVB,nourB,cknodreV,26,1,13530,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+34,50,BKDG,nnelG,erkcaB eD,21,1,16125,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+35,52,CTLJ,esnnaJ,tepmoceL,20,1,25897,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+36,53,DBVK,oftsirK,keebrednaV,20,1,24918,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+37,54,LRBM,entraaM,reeillaB,23,1,13511,Tech - C&I - Comp Center - Hybrid Cloud
+39,56,SNMP,erteiP,enaisseM,21,1,26733,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+40,57,TTSW,rdaW,tetyurpS,20,1,13414,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+41,61,SNTJ,rgoJ,ntiassuoT,12,1,25198,Tech - C&I - Comp Center - Security
+42,64,MTDJ,enoreJ,tsemeD,12,1,14980,Tech - C&I - Comp Center - Security
+43,65,BRLB,rtaB,erebyL,21,1,11684,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+44,66,CBVF,ikrederF,hegrebnewuacnaV,21,1,27028,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+45,67,TLCK,thenneK,ineletsaC,21,1,19406,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+46,68,GBDW,eylseW,otorbnegoorD,11,1,13971,Tech - C&I - Comp Center - Hybrid Cloud - WM
+47,69,DMJP,anJ-reteiP,htgeameD,22,1,24774,Tech - C&I - Comp Center - Hybrid Cloud - WM
+48,70,NVST,asmohT,veeahnyeS,22,1,29627,Tech - C&I - Comp Center - Hybrid Cloud - WM
+49,71,FRMM,asihtaM,dtiorfyeM,22,1,29201,Tech - C&I - Comp Center - Hybrid Cloud - WM
+50,72,PNDK,osoK,enppuD,11,1,14722,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+51,73,VSVK,isrK,chsivreV,23,1,8090,Tech - C&I - Comp Center - Hybrid Cloud
+52,74,MNHW,ertuoW,nsemloH,12,1,19370,Tech - C&I - Comp Center - Security - Ext
+53,75,RLMC,isrhC,elerraM,23,1,10456,Tech - C&I - Comp Center - Hybrid Cloud
+54,76,TNSK,ajK,cknortsuS,21,1,28422,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+55,77,VTDF,ceirbaF,erttevyuhD,16,1,17741,Tech - C&I - Services - Managed Services - Service Delivery CG B
+56,78,VDDY,esvY,reedloveD,3,1,22888,Tech - C&I - Services - Managed Services - Service Delivery CG B
+57,79,DDVY,esvY,hecsseirdnednaV,3,1,10664,Tech - C&I - Services - Managed Services - Service Delivery CG B
+58,80,CSVB,nourB,sesyurcreV,3,1,26278,Tech - C&I - Services - Managed Services - Service Delivery CG B
+59,81,WLPJ,leleJ,lsewuaP,12,1,24113,Tech - C&I - Comp Center - Security
+60,82,RMDR,ikredoR,ltuamarseD,3,1,26593,Tech - C&I - Services - Managed Services - Service Delivery CG B
+61,83,SNGS,envS,nsessooG,3,1,9818,Tech - C&I - Services - Managed Services - Service Delivery CG B
+62,84,OYJT,omT,yeoJ,16,1,30083,Tech - C&I - Services - Managed Services - Service Delivery CG C
+63,85,LNFC,ueqird?C,onluoF,4,1,13531,Tech - C&I - Services - Managed Services - Service Delivery CG C
+64,86,SKVP,erteiP,keetsluV,4,1,9368,Tech - C&I - Services - Managed Services - Service Delivery CG C
+66,88,KEBL,nseruaL,kecarB,4,1,25786,Tech - C&I - Services - Managed Services - Service Delivery CG C
+67,89,TSMW,ertuoW,jsihttaM,12,1,23826,Tech - C&I - Comp Center - Security
+68,90,ORTJ,anyroJ,fsroT,4,1,29944,Tech - C&I - Services - Managed Services - Service Delivery CG C
+69,91,SSVW,utoW,setahcsreV,9,1,8964,Tech - C&I - Services - Managed Services - Atlas
+70,92,RSCJ,enJ,rseihC,9,1,23355,Tech - C&I - Services - Managed Services - Atlas
+71,94,KVBC,icrd?C,ltevekearB,9,1,28790,Tech - C&I - Services - Managed Services - Atlas
+72,95,ZRMJ,enoreJ,elerezaM,16,1,13013,Tech - C&I - Services - Managed Services - Service Delivery CG A
+73,96,PTVJ,imhcaoJ,rtoopreV,7,1,27282,Tech - C&I - Services - Managed Services - Services & Support Back Office
+74,97,OSBK,inveK,susoB,23,1,10942,Tech - C&I - Comp Center - Hybrid Cloud
+75,99,OCCF,tosuaF,cooC,7,1,29030,Tech - C&I - Services - Managed Services - Ext
+76,100,STSJ,onraJ,enetspyrtS,7,1,42392,Tech - C&I - Services - Managed Services - Services & Support Back Office
+77,101,GBIJ,nseJ,htcerblehgnI,7,1,39226,Tech - C&I - Services - Managed Services - Atlas
+80,104,MDAM,dihaM,diamhA,7,1,30417,Tech - C&I - Services - Managed Services - Services & Support Back Office
+81,105,DDVR,beboR,leeaD ned naV,12,1,39225,Tech - C&I - Comp Center - Security
+82,106,DRST,jsihT,rteadnatS,12,1,39269,Tech - C&I - Comp Center - Security
+83,108,EJDC,hepotsirhC,anjeD,29,1,10941,Tech - C&I - Services - Managed Services - Ext
+84,109,DMVL,enveiL,memadnaV,29,1,3176,OMT A&I CS
+85,110,NTBW,ertuoW,itoneB,14,1,43046,Tech - A&I - Comp Center - Customer Engagement
+86,111,KRBG,ninaiG,rteakcuoB,8,1,39228,Tech - C&I - Services - Savaco One - Services & Support End User
+87,112,TNBT,omT,inturB,6,1,42520,Tech - C&I - Services - Managed Services - Service Delivery CG E
+88,113,PLCG,uyG,lelepahC,8,1,36280,Tech - C&I - Services - Savaco One - Services & Support End User
+89,114,LACK,imK,ysealC,6,1,42515,Tech - C&I - Services - Managed Services - Service Delivery CG E
+90,115,MNCJ,erpsaJ,nejiemmoC,27,1,23177,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+91,116,TNCS,envS,ienettoC,17,1,5515,Tech - A&I - Services - Customer Success Management
+92,117,RSDS,jnitS,seooR eD,26,1,6356,Tech - A&I - Comp Center - Data & Bus Applications
+93,118,BGDT,nyoT,veearghcrubeD,5,1,36282,Tech - C&I - Services - Savaco One - Service Delivery
+94,119,ELDK,isrK,euleD,5,1,36395,Tech - A&I - Comp Center - Ext
+95,120,LFDK,anilliK,ofoleD,8,1,41166,Tech - C&I - Services - Savaco One - Services & Support End User
+96,121,PTDB,nyneB,dtyupeD,17,1,25195,Tech - A&I - Services - Customer Success Management
+97,122,PPDT,ryreihT,erpypeD,17,1,14345,Tech - A&I - Services - Customer Success Management
+98,123,WTDI,enbI,erthcaweD,5,1,36381,Tech - C&I - Services - Savaco One - Service Delivery
+99,124,WLDK,inveK,lfuweD,26,1,22910,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+100,125,CAGE,doraudE,iacraG,14,1,43037,Tech - A&I - Comp Center - Customer Engagement - Ext
+101,126,CAGF,cosicnarF,iacraG,14,1,43038,Tech - A&I - Comp Center - Customer Engagement - Extended Team
+102,127,NNGA,eyrduA,nseneeG,17,1,26108,Tech - A&I - Services - Customer Success Management
+103,128,UIGD,ueqinimoD,otiuG,8,1,36382,Tech - C&I - Services - Savaco One - Services & Support End User
+104,129,RKHV,ntecniV,cknireaH,12,1,43169,Tech - C&I - Comp Center - Security
+105,130,TSHT,omT,nsestreH,17,1,41167,Tech - A&I - Services - Customer Success Management
+106,131,NRJT,nyoT,chirenneJ,8,1,36275,Tech - C&I - Services - Savaco One - Services & Support End User
+107,132,TNTK,oftsirK,enteehT,29,1,8815,Tech - Directors
+108,133,MRLJ,enoreJ,reiameL,8,1,36383,Tech - C&I - Services - Savaco One - Services & Support End User
+109,134,ASMP,erteP,esaM,6,1,42518,Tech - C&I - Services - Managed Services - Ext
+110,135,FTMN,lseiN,itaflaM,26,1,11581,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+111,137,MSJY,onoJ ooY,ysM,8,1,36385,Tech - C&I - Services - Savaco One - Services & Support End User
+112,138,LXOP,iplihP,uxeilO,25,1,42688,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+113,139,RRPM,rkaM,erareeP,6,1,42516,Tech - C&I - Services - Managed Services - Service Delivery CG E
+115,142,LPDA,imleS,arnipulmuD,20,1,43634,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+116,143,VNSK,isrK,tsnaneveS,14,1,43041,Tech - A&I - Comp Center - Customer Engagement - Ext
+117,144,TRSR,lfoR,ertfitS,14,1,43045,Tech - A&I - Comp Center - Customer Engagement
+118,145,NNSB,rteB,ennniwS,5,1,36386,Tech - C&I - Services - Savaco One - Service Delivery
+119,146,VBJP,anJ-reteiP,leleB naV,25,1,43044,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+120,147,CKVG,nnelG,engnikeirC naV,14,1,43040,Tech - A&I - Comp Center - Customer Engagement
+121,148,KSVJ,anJ,emsteoK naV,26,1,28721,Tech - A&I - Comp Center - Data & Bus Applications
+122,149,BRVN,anhtaN,reealbnaV,14,1,43043,Tech - A&I - Comp Center - Customer Engagement - Ext
+123,150,CNVC,tetolrahC,stenyearcnaV,27,1,39224,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+124,151,DAVJ,neraJ,leeebanednaV,27,1,39227,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+125,152,DNVC,enileC,rgobnewueinnednaV,27,1,43035,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+126,153,DPVM,ttaM,tetipednaV,24,1,18755,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+127,154,DHVC,rlaC,enreehrednaV,17,1,2940,Tech - A&I - Services - Customer Success Management
+128,155,DSVD,idvaD,enteartsrednaV,6,1,42513,Tech - C&I - Services - Managed Services - Service Delivery CG E
+129,156,HWVR,htcerboR,reewuahnaV,25,1,43515,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+130,157,HLVS,asavreS,leuehnaV,6,1,42519,Tech - C&I - Services - Managed Services - Service Delivery CG E
+131,158,HRVJ,nseJ,endreageohnaV,14,1,43225,Tech - A&I - Comp Center - Customer Engagement
+132,159,HRVT,asmohT,enroohnaV,5,1,36276,Tech - C&I - Services - Savaco One - Service Delivery
+133,161,HGVJ,neimsaJ,hegeahreV,30,1,9016,Tech - A&I - Comp Center - Data & Bus Applications
+134,162,HVVW,imW,enveohreV,22,1,36388,Tech - C&I - Comp Center - Hybrid Cloud - WM
+135,163,SRVB,rtaB,ersyreV,5,1,36389,Tech - C&I - Services - Savaco One - Service Delivery
+137,165,BLWM,elihciM,ielliabyW,8,1,36277,Tech - C&I - Services - Savaco One - Services & Support End User
+138,166,FLWY,esvY,lseffyW,17,1,5511,Operations - Internal IT
+139,167,WLPH,ineH,ynlewuaP,33,1,26158,Operations - Internal IT
+140,168,HNVJ,asnoJ,nenehreV,33,1,42393,Operations - Internal IT
+141,169,NULL,pia-noi-cvs,ntuocca,30,1,NULL,NULL
+143,171,LOSE,asilE,sesolS,12,1,43886,Tech - C&I - Comp Center - Security
+144,172,TNDM,elihciM,neneiteD,4,1,43887,Tech - C&I - Services - Managed Services - Service Delivery CG C
+145,173,LNCI,enerI,nsellaC,30,1,26979,Staff Operations
+146,174,DKHP,etiP,ynkednaH,28,1,42517,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP - Ext
+148,176,UOGX,anuX,uoG,24,1,44064,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+149,177,NTDL,iewoL,tesenleD,24,1,44075,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+150,178,USMT,omT,lyssuM,24,1,44146,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+151,179,BRBI,orgI,eribraB,26,1,44269,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+152,180,CNVA,exlA,ytennaC naV,26,1,44061,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+153,181,BRLR,beboR,htcerbmaL,27,1,44140,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+154,182,MRDK,eneK,oroM eD,7,1,44243,Tech - C&I - Services - Managed Services - Services & Support Back Office
+155,183,DBVT,boihT,enkeB rednaV,7,1,44142,Tech - C&I - Services - Managed Services - Services & Support Back Office
+156,184,GSLS,aneS,stagaL,7,1,44141,Tech - C&I - Services - Managed Services - Services & Support Back Office
+158,186,MNCD,iknimoD,anmrealC,14,1,44139,Tech - A&I - Comp Center - Customer Engagement
+159,187,MNVE,ongE,anmkeeV,16,1,44553,Tech - C&I - Services - Managed Services - Ext
+160,188,HRDM,asihtaM,dtreH eD,7,1,44255,Tech - C&I - Services - Managed Services - Services & Support Back Office
+162,190,CMVD,anlyD,ermacreV,20,1,44552,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+163,191,LWHA,lelexA,reeawelliH,24,1,44704,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+164,192,KSDJ,enhcoJ,ersyekeD,12,1,44706,Tech - C&I - Comp Center - Security
+165,193,WTDT,ltuabihT,tetiweD,7,1,44708,Tech - C&I - Services - Managed Services - Services & Support Back Office
+166,194,KMCL,oyL,ielliamekcnylC,30,1,36281,Sales - Savaco One
+167,195,DDVW,esnnaW,delevednaV,30,1,42012,Sales - Savaco One
+168,196,SBVE,mymE,gerebneetS naV,30,1,36279,Tech - C&I - Services - Savaco One
+169,197,VDDS,amS,reedloveD,12,1,44707,Tech - C&I - Comp Center - Security
+170,198,LSAS,onmiS,isallA,16,1,44790,Tech - C&I - Services - Managed Services - Service Delivery CG B
+172,201,NECE,liE,neeoC,27,1,44976,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+173,202,KRVH,reolennaH,erikcniV,20,1,45183,Tech - C&I - Comp Center - Hybrid Cloud - CSC
+174,203,OOCP,iplihP,lsooC,5,1,45184,Tech - C&I - Services - Savaco One - Service Delivery
+175,204,URYS,anniS,ukruY,14,1,45207,Tech - A&I - Comp Center - Customer Engagement
+176,205,INSP,odmarP,ghniS,7,1,45238,Tech - C&I - Savaco India - Ext
+177,206,MTSP,itjnesarP,tanamaS,7,1,45255,Tech - C&I - Savaco India - Ext
+178,207,GWAP,asraP,alwragA,27,1,45254,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP - Ext
+179,208,STHV,ayniV,taisraH,27,1,45256,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP - Ext
+180,209,HJMB,BP,eejrehkuM,27,1,45253,Savaco India
+181,210,MNMC,inloC,anmhcsreeM,14,1,45269,Tech - A&I - Comp Center - Customer Engagement
+182,211,VKVD,erteiD,keeavreV,16,1,45270,Tech - C&I - Services - Managed Services - Service Delivery CG A
+184,213,KJPD,evD,ajknaP,7,1,45408,Savaco India
+185,214,RRGF,epiliF,rteareeG,8,1,45409,Tech - C&I - Services - Savaco One - Services & Support End User
+186,215,CYDM,elahciM,reeaneyurceD,14,1,40808,Tech - A&I - Comp Center - Customer Engagement
+187,216,DRHT,antsirT,ckiredneH,6,1,45851,Tech - C&I - Services - Managed Services - Service Delivery CG E
+188,217,BLDS,amS,reealebboD,27,1,45906,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+189,218,KTPI,azilI,etkcnyP,8,1,45927,Tech - C&I - Services - Managed Services - Services & Support End User
+190,219,LNBB,ceurB,nseleoB,12,1,45926,Tech - C&I - Comp Center - Security
+191,220,SIAP,ulhaP,ghniS,27,1,45961,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP - Ext
+192,221,VDDG,rteG,erdlyV eD,26,1,46034,Tech - A&I - Comp Center - Data & Bus Applications - SPD
+193,222,KVSK,lliriK,ovkhcuS,17,1,46035,Tech - A&I - Services - Customer Success Management
+38,55,REDM,asihtaM,reooh'D,21,0,19706,Tech - C&I - Comp Center - Hybrid Cloud - CVD
+65,87,EYSG,ikroG,yseS,21,0,29032,Tech - C&I - Services - Managed Services - Service Delivery CG C
+78,102,OLTK,inveK,peloT,7,0,41580,Tech - C&I - Services - Managed Services - Services & Support Back Office
+79,103,MNML,isuoL,anmreoM,7,0,29029,Tech - C&I - Services - Managed Services - Services & Support Back Office
+114,140,SNPM,asihttaM,nteserP,27,0,28202,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+136,164,GVWY,rieoY,veearglaW,27,0,43048,Tech - A&I - Comp Center - Data & Bus Applications - DIA + SCP
+142,170,LOST,omT,sesolS,24,0,25438,Tech - A&I - Comp Center - Data & Bus Applications - SCC
+147,175,NULL,rcaM,seyrgeD,28,0,NULL,NULL
+157,185,NULL,erteiD,ennuehT,28,0,NULL,NULL
+161,189,NULL,An,tepmoceL,28,0,NULL,NULL
+171,200,NULL,erteiP,bebaS,28,0,NULL,NULL
+183,212,DRGJ,my?r?J,isreddoG,5,0,45304,Tech - C&I - Services - Managed Services - Service Delivery CG D
+1,1,oni,tscejorPnoi,rtoppuS,1,1,NULL,NULL
+11,11,NULL,24.1A L gniniarT laakoL,ziebmaZ,31,1,NULL,NULL
+12,12,NULL,23.1A LX gniniarT laakoL,jliN,31,1,NULL,NULL
