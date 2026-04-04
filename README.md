@@ -155,11 +155,31 @@ These measures help evaluate employee workload and organizational efficiency.
 
 ## Repository Structure
 
-Workforce-Utilization-Analysis
+Workforce-Planning-PowerBI/
 │
-├── Workforce_Planning.pbix → Power BI dashboard file
-├── Dashboard_Screenshots → Dashboard images
-└── README.md → Project documentation
+├── Data/
+│   ├── CapacityandLeaves.csv
+│   ├── Company.csv
+│   ├── Date.csv
+│   ├── Department.csv
+│   ├── Internal_Project.csv
+│   ├── Planned_Hour.csv
+│   ├── Projects.csv
+│   ├── Resources.csv
+│   └── Tasks.csv
+│
+├── Dashboard/
+│   └── Workforce_Planning.pbix
+│
+├── Dashboard_Screenshots/
+│   ├── billable_report.png
+│   ├── external_capacity_overview.png
+│   ├── internal_project_followup.png
+│   ├── over_allocation.png
+│   └── planned_vs_actual.png
+│
+└── README.md
+
 
 ---
 
